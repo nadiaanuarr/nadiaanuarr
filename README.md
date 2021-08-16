@@ -1,9 +1,6 @@
 ### Hi there, I'm [Nadia!](https://nadiaanuarr.github.io) 👋
 
-<br />
-<br />
-
-Hi, I'm Nadia Anuar, an aspiring data scientist from Malaysia.
+I'm an aspiring data scientist from Malaysia.
 
 - 🔭 I’m currently working on various data science projects of interest
 - 🌱 I’m currently learning Kaggle's 30 Days of Machine Learning
