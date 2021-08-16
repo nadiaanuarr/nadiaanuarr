@@ -20,6 +20,8 @@ I'm an aspiring data scientist from Malaysia.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadianuarr&repo=github-readme-stats&theme=material-lighter" />
 </a>  
 
+<br />
+
 <a href="https://github.com/nadiaanuarr/nadiaanuarr.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadiaanuarr&repo=nadiaanuarr.github.io&theme=material-lighter" />
