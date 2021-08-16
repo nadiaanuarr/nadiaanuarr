@@ -5,7 +5,7 @@ I'm an aspiring data scientist from Malaysia.
 - 🤔 I’m actively looking for help with landing a permanent data scientist role
 - 🔭 I’m currently working on various data science projects of interest
 - 🌱 I’m currently learning Kaggle's 30 Days of Machine Learning
-- 🤍 I like: coffee, reading, travelling & watching movies
+- 🤍 I like coffee, reading, travelling & watching movies
 
 <br />
 
