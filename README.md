@@ -1,6 +1,8 @@
-<h1 align="center">### Hi there, I'm Nadia!👋 </h1>
+<h1 align="center"> Hi there, I'm Nadia!👋 </h1>
 
 <h3 align="center">I'm an aspiring data scientist from Malaysia who is ready to roll up my sleeves and take up new challenges </h3>
+
+<br />
 
 - 🤔 I’m actively looking for help with landing a permanent data scientist role
 - 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
