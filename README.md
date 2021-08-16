@@ -7,6 +7,7 @@ I'm an aspiring data scientist from Malaysia.
 - 🤍 I like: coffee, reading, travelling & watching movies
 - 🤔 I’m actively looking for help with landing a permanent data scientist role
 
+<br />
  <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
