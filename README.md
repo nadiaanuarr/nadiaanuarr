@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I'm [Nadia!](https://nadiaanuarr.github.io) 👋
 
-<!--
-**nadiaanuarr/nadiaanuarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Nadia Anuar, an aspiring data scientist from Malaysia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various data science projects of interest
+- 🌱 I’m currently learning Kaggle's 30 Days of Machine Learning
+- 🤍 I like: coffee, reading, travelling & watching movies
+- 🤔 I’m actively looking for help with landing a permanent data scientist role
+
+ <!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<a href="https://github.com/nadiaanuarr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-dracula" alt="Nadia's github stats" />
+</a>
+<a href="https://github.com/nadiaanuarr/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-dracula" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadiaanuarr&repo=github-readme-stats&theme=material-dracula" />
+</a>    
+<a href="https://github.com/nadiaanuarr/nadiaanuarr.github.io">
+  <!-- Change the `github-readme-stats.anuraghazral.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadiaanuarr&repo=nadiaanuarr.github.io&theme=material-dracula" />
+</a>
