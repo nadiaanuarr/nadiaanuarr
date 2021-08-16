@@ -6,7 +6,7 @@ I'm an aspiring data scientist from Malaysia.
 - 🔭 I’m currently working on various data science projects of interest
 - 🌱 I’m currently learning Kaggle's 30 Days of Machine Learning
 - 🤍 I like coffee, reading, travelling & watching movies
-- 📜 ![A list of my completed certifications in Data Science](https://github.com/nadiaanuarr/certificates/blob/main/README.md)
+- 📜 [An overview of my completed certifications in Data Science](https://github.com/nadiaanuarr/certificates/blob/main/README.md)
 
 <br />
 
