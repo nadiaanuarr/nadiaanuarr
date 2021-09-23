@@ -1,10 +1,10 @@
 <h1 align="center"> Hi, I'm Nadia!👋 </h1>
 
-<h3 align="center">I'm an aspiring data analyst/data scientist based in Kuala Lumpur, Malaysia who is ready to take up new challenges 💻 </h3>
+<h3 align="center">I'm an aspiring data scientist based in Kuala Lumpur, Malaysia who is ready to take up new challenges 💻 </h3>
 
 <br />
 
-- 🤔 I’m actively looking for help with landing a permanent data scientist role
+- 🤔 I’m actively looking for help with landing a permanent data analyst/data scientist role
 - 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
 - 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
