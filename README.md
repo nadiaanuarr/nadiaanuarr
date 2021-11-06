@@ -4,11 +4,14 @@
 
 <br />
 
-- 🤔 I’m actively looking for help with landing a permanent data analyst/data scientist role
-- 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
-- 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
-- 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
-- 🤍 I like coffee, reading, travelling & watching movies
+ 🤔 I’m actively looking for help with landing a permanent data analyst/data scientist role
+ 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
+ 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
+ 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
+ 🤍 I like coffee, reading, travelling & watching movies
+ 🛠️ What I'm working on:
+      ◼️ Google Cloud Skills Challenge 2021 ➡️ https://www.cloudskillsboost.google/public_profiles/1dccc413-bf79-4bd2-9396-eaaf85e83703
+      ◻️ Coding Practice ➡️ https://www.freecodecamp.org/nadiaanuarr
 
 <br />
 
