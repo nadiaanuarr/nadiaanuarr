@@ -20,6 +20,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiaanuarr&show_icons=true&include_all_commits=true&theme=material-lighter" alt="Nadia's github stats" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=nadiaanuarr)
+
 <br />
 
 <h3 align="left">Languages and Tools: </h3>
