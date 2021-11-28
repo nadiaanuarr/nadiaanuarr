@@ -9,8 +9,6 @@
 - 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
 - 🤍 I like coffee, reading, travelling & watching movies
-- 🛠️ I'm working on:
-  - Google Cloud Skills Challenge 2021 ➡️ https://t.ly/BiLQ
 - 🌱 I’m currently learning:
   - How to Code ➡️ https://www.freecodecamp.org/nadiaanuarr
 
