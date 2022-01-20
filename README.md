@@ -4,7 +4,6 @@
 
 <br />
 
-- 🤔 I’m actively looking for help with landing a permanent data analyst/data scientist role
 - 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
 - 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
