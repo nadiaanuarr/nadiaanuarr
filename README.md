@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Nadia!👋 </h1>
 
-<h3 align="center">I'm an aspiring data scientist based in Kuala Lumpur, Malaysia who is ready to take up new challenges 💻 </h3>
+<h3 align="center">I'm a data analyst based in Kuala Lumpur, Malaysia who is ready to take up new challenges 💻 </h3>
 
 <br />
 
