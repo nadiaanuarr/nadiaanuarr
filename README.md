@@ -9,7 +9,7 @@
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
 - 🤍 I like coffee, reading, travelling & watching movies
 - 🌱 I’m currently working on:
-  - Google Cloud Skills Challenge ➡️ [https://events.withgoogle.com/gcpboleh/)
+  - Google Cloud Skills Challenge ➡️ [https://events.withgoogle.com/gcpboleh/](https://events.withgoogle.com/gcpboleh/)
 
 <br />
 
