@@ -5,11 +5,11 @@
 <br />
 
 - 💬 Visit my portfolio : [https://nadiaanuarr.github.io/](https://nadiaanuarr.github.io/)
-- 📫 Reach me at : **nadiaanuar2019@gmail.com** or send a message on LinkedIn
+- 📫 Reach me at : **nadiaanuarr@gmail.com** or send a message on LinkedIn
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
 - 🤍 I like coffee, reading, travelling & watching movies
 - 🌱 I’m currently working on:
-  - Google Cloud Skills Challenge ➡️ [https://events.withgoogle.com/gcpboleh/](https://events.withgoogle.com/gcpboleh/)
+  - 
 
 <br />
 
