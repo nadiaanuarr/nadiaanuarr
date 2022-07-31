@@ -8,8 +8,7 @@
 - 📫 Reach me at : **nadiaanuarr@gmail.com** or send a message on LinkedIn
 - 📜 An overview of my completed [certifications](https://github.com/nadiaanuarr/certificates/blob/main/README.md) in Data Science
 - 🤍 I like coffee, reading, travelling & watching movies
-- 🌱 I’m currently working on:
-  - 
+- 🌱 I’m currently working on: 
 
 <br />
 
